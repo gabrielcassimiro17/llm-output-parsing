@@ -1,0 +1,3 @@
+langchain
+openai
+google-generativeai
